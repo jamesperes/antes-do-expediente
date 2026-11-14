@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Antes do Expediente · podcast diário de James Peres</title>
+  <meta name="description" content="Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.">
+  <meta name="theme-color" content="#0F274D">
+  <link rel="canonical" href="http://jamesperes.com/antes-do-expediente/">
+  <link rel="alternate" type="application/rss+xml" title="Antes do Expediente" href="https://jamesperes.github.io/antes-do-expediente/feed.xml">
+  <link rel="icon" href="icon-512.jpg">
+  <link rel="apple-touch-icon" href="icon-512.jpg">
+  <meta property="og:title" content="Antes do Expediente">
+  <meta property="og:description" content="Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.">
+  <meta property="og:image" content="https://jamesperes.github.io/antes-do-expediente/cover-tech.jpg">
+  <meta property="og:url" content="http://jamesperes.com/antes-do-expediente/">
+  <style>
+    :root { --navy:#0F274D; --navy-2:#173462; --red:#C41E3A; --ink:#0F274D; --paper:#F5F7FB; --card:#fff; --muted:#5B6B84; color-scheme: light; }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body { margin:0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: var(--paper); color: var(--ink); line-height:1.5; }
+    a { color: inherit; }
+    .hero { background: var(--navy); color:#fff; padding: calc(1.25rem + env(safe-area-inset-top)) 1.25rem 0; }
+    .wrap { max-width: 40rem; margin: 0 auto; }
+    .top { display:flex; justify-content:space-between; align-items:center; font-size:.9rem; }
+    .top a { text-decoration:none; opacity:.85; }
+    .top a:hover { opacity:1; }
+    .show { display:flex; gap:1rem; align-items:center; padding: 1.75rem 0 1.5rem; }
+    .show img { width:6.5rem; height:6.5rem; border-radius:.75rem; flex:none; box-shadow:0 6px 20px rgba(0,0,0,.35); }
+    h1 { font-size: clamp(1.75rem, 7vw, 2.5rem); line-height:1.1; margin:0 0 .35rem; letter-spacing:-.01em; }
+    .tagline { margin:0; opacity:.85; font-size:.95rem; }
+    .topics { background: var(--red); color:#fff; margin: 0 -1.25rem; padding:.65rem 1.25rem; font-size:.85rem; font-weight:600; letter-spacing:.02em; overflow-x:auto; white-space:nowrap; }
+    .topics .wrap span + span::before { content:"•"; margin: 0 .5rem; opacity:.8; }
+    main { padding: 1.25rem; }
+    section { background: var(--card); border-radius: 1rem; padding: 1.25rem; margin: 0 auto 1rem; max-width:40rem; box-shadow: 0 1px 3px rgba(15,39,77,.08); }
+    .kicker { margin:0; color: var(--red); font-weight:700; font-size:.8rem; text-transform:uppercase; letter-spacing:.06em; }
+    h2 { font-size:1.25rem; line-height:1.25; margin:.35rem 0 .25rem; }
+    .meta { margin:0 0 .75rem; color: var(--muted); font-size:.9rem; }
+    audio { width:100%; margin:.25rem 0 .75rem; }
+    .desc { margin:0 0 1rem; font-size:.95rem; }
+    .btn { display:inline-flex; align-items:center; justify-content:center; min-height:44px; padding:.6rem 1rem; border-radius:999px; font-weight:600; text-decoration:none; border:2px solid var(--navy); background: var(--navy); color:#fff; cursor:pointer; font: inherit; font-weight:600; }
+    .btn.ghost { background:transparent; color: var(--navy); }
+    .btn.red { background: var(--red); border-color: var(--red); }
+    .sub p { margin:.25rem 0 .9rem; color: var(--muted); font-size:.95rem; }
+    .feed { display:flex; gap:.5rem; flex-wrap:wrap; }
+    .feed code { display:block; width:100%; background: var(--paper); padding:.6rem .75rem; border-radius:.5rem; font-size:.8rem; overflow-wrap:anywhere; }
+    .older ul { list-style:none; margin:.5rem 0 0; padding:0; }
+    .older li + li { border-top:1px solid #E3E8F0; }
+    summary { display:flex; justify-content:space-between; gap:1rem; padding:.85rem 0; cursor:pointer; font-weight:600; min-height:44px; }
+    summary .t { color: var(--muted); font-weight:400; }
+    details p { margin:0 0 1rem; font-size:.9rem; }
+    footer { text-align:center; color: var(--muted); font-size:.85rem; padding: 1rem 1.25rem calc(2rem + env(safe-area-inset-bottom)); }
+    footer a { color: var(--navy); }
+    @media (min-width: 40rem) { .show img { width:8.5rem; height:8.5rem; } }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <nav class="top"><a href="http://jamesperes.com/">← jamesperes.com</a><a href="https://jamesperes.github.io/antes-do-expediente/feed.xml">RSS</a></nav>
+      <div class="show">
+        <img src="cover-tech.jpg" alt="Capa do podcast Antes do Expediente" width="136" height="136">
+        <div>
+          <h1>Antes do Expediente</h1>
+          <p class="tagline">O resumo diário para ouvir antes de começar o dia, por James Peres.</p>
+        </div>
+      </div>
+    </div>
+    <div class="topics"><div class="wrap"><span>IA</span><span>Lançamentos</span><span>Celulares</span><span>Apps</span><span>Games</span><span>Empresas</span></div></div>
+  </header>
+  <main>
+    <section class="latest" aria-labelledby="ep-title">
+      <p class="kicker">Episódio mais recente · 14 de novembro de 2026</p>
+      <h2 id="ep-title">Antes do Expediente — 14/11/2026</h2>
+      <p class="meta">13 min 18 s</p>
+      <audio controls preload="metadata" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-14.mp3"></audio>
+      <p class="desc">Starship chega à órbita no voo 15 e a nave tenta hoje o primeiro pouso na torre; OpenAI lança o ChatGPT Wallet para agentes de IA pagarem compras; Muse, da Meta, passa a fazer ligações por você; PS5 ganha imagem mais nítida com IA (QSSR) em Spider-Man 2 e outros jogos; mais 21 clássicos do Xbox original chegam ao PC, 18 deles no Brasil; Epson traz ao Brasil telas de LED de 135 e 162 polegadas; Keychron apresenta o T1 HE, mouse com trackball de posição ajustável.</p>
+      <a class="btn ghost" href="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-14.mp3" download>Baixar MP3</a>
+    </section>
+    <section class="sub" aria-labelledby="sub-title">
+      <h2 id="sub-title">Assine o podcast</h2>
+      <p>Cole o endereço do feed no seu app de podcasts (Apple Podcasts, Pocket Casts, Overcast, AntennaPod…).</p>
+      <div class="feed">
+        <code id="feed-url">https://jamesperes.github.io/antes-do-expediente/feed.xml</code>
+        <button class="btn red" type="button" id="copy">Copiar link do feed</button>
+        <a class="btn ghost" href="https://jamesperes.github.io/antes-do-expediente/feed.xml">Abrir RSS</a>
+      </div>
+    </section>
+    <section class="older" aria-labelledby="older-title">
+      <h2 id="older-title">Episódios anteriores</h2>
+      <ul>
+        <li>
+          <details>
+            <summary><span class="d">13 de novembro de 2026</span><span class="t">13 min 41 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-13.mp3"></audio>
+            <p>Google lança o Gemini 4 Hydrogen, modelo rápido que vira padrão no Modo IA da Busca; óculos inteligentes da Samsung com Gemini, em parceria com Warby Parker e Gentle Monster, chegam em 10 de dezembro; Xbox libera jogo na nuvem gratuito com anúncios e confirma GTA VI pela nuvem no lançamento; Anthropic abre beta do Claude Managed Agents auto-hospedado; One UI 9 chega a Galaxy A15 5G, A17 5G, A34 e A54 no Brasil; Skyways apresenta o Skyreach, drone de carga híbrido com mais de 2 mil km de autonomia; e Blackmagic anuncia microfone de áudio espacial com 108 cápsulas e tecnologia da Apple.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">12 de novembro de 2026</span><span class="t">14 min 47 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-12.mp3"></audio>
+            <p>Gemini chega ao Apple CarPlay com conversas por voz; AWS lança o AWS Emulator, escrito inteiramente por agentes de IA; XPENG abre o GroundingPI, modelo de visão para robôs e carros autônomos; IBM anuncia o processador quântico Nighthawk r3 e plano de sistema com mais de mil qubits em 2027; remake de Zelda: Ocarina of Time vende 5,2 milhões em quatro dias no Switch 2; voluntários brasileiros respondem por cerca de 70% das novas linhas da documentação do Linux 7.3; e a Apple encerra sua Comunidade de Suporte após 28 anos.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">11 de novembro de 2026</span><span class="t">13 min 8 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-11.mp3"></audio>
+            <p>Chico César e Marcos Suzano no baile gratuito do Monobloco na Brava Arena Jockey, na Gávea, e última sessão do Cine Concerto Cidade de Deus no Rio; Rec'n'Play começa no Recife com mais de 850 atividades gratuitas; Google libera o Gemini 4 Carbon; Pixel Feature Drop de novembro traz tarefas automáticas com Gemini e widgets criados por comando; Flamengo recusa sondagens pela venda de Samuel Lino e se prepara para o Athletico-PR; Kirk Cousins volta aos Vikings e Fernando Mendoza vira titular dos Raiders no fechamento da janela de trocas da NFL; na NBA, Paul George faz 36 na vitória do Celtics sobre o 76ers e Knicks atropelam os Bucks.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">10 de novembro de 2026</span><span class="t">13 min 13 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-10.mp3"></audio>
+            <p>Prefeitura do Rio propõe prédios de até 80 andares na Zona Portuária (projeto Mata Maravilha); Fachin arquiva o inquérito das fake news após sete anos; STF faz audiência de conciliação sobre o fim da escala 6x1 e decreto fica para a volta de Lula; Nvidia perde cerca de US$ 192 bilhões em um dia após investigação envolvendo Jensen Huang; Flamengo volta aos treinos com Danilo de máscara mirando o Athletico-PR; Bills vencem os Vikings por 23 a 6 no Monday Night; na NBA, Wembanyama faz 40 pontos e 9 tocos e Cooper Flagg marca 43.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">9 de novembro de 2026</span><span class="t">13 min 36 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-09.mp3"></audio>
+            <p>Incêndio controlado em prédio em obras no Santo Cristo, no Rio, sem feridos segundo a construtora; Lula embarca para a COP31 na Turquia e depois segue para Filipinas e cúpula da Asean; decreto que regulamenta o fim da escala 6x1 deve sair hoje; Nvidia abre investigação independente envolvendo o CEO Jensen Huang; Flamengo usa a Data Fifa para recuperar o elenco antes de Athletico e Palmeiras; na NFL, virada dos Cowboys, Bengals em Madri e Giants quebrando tabu na Filadélfia; na NBA, 43 de Austin Reaves e 41 de Stephen Curry.</p>
+          </details>
+        </li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>Episódios gerados diariamente · os 7 mais recentes ficam disponíveis.</p>
+    <p><a href="http://jamesperes.com/">James Peres</a></p>
+  </footer>
+  <script>
+    document.getElementById("copy").addEventListener("click", function () {
+      var b = this, u = document.getElementById("feed-url").textContent;
+      (navigator.clipboard ? navigator.clipboard.writeText(u) : Promise.reject()).then(function () {
+        b.textContent = "Link copiado!"; setTimeout(function () { b.textContent = "Copiar link do feed"; }, 2000);
+      }, function () { window.prompt("Copie o link do feed:", u); });
+    });
+  </script>
+</body>
+</html>

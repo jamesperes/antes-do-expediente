@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antes do Expediente</title>
+    <link>https://jamesperes.github.io/antes-do-expediente/</link>
+    <atom:link href="https://jamesperes.github.io/antes-do-expediente/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.</description>
+    <language>pt-BR</language>
+    <podcast:guid>56430a54-3bae-5410-ad2b-8d03f8f2be2c</podcast:guid>
+    <lastBuildDate>Sat, 14 Nov 2026 11:46:54 -0300</lastBuildDate>
+    <itunes:author>James Peres</itunes:author>
+    <itunes:owner>
+      <itunes:name>James Peres</itunes:name>
+      <itunes:email>james.peres.s@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.</itunes:summary>
+    <itunes:image href="https://jamesperes.github.io/antes-do-expediente/cover-tech.jpg"/>
+    <image><url>https://jamesperes.github.io/antes-do-expediente/cover-tech.jpg</url><title>Antes do Expediente</title><link>https://jamesperes.github.io/antes-do-expediente/</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Antes do Expediente — 14/11/2026</title>
+      <description>Starship chega à órbita no voo 15 e a nave tenta hoje o primeiro pouso na torre; OpenAI lança o ChatGPT Wallet para agentes de IA pagarem compras; Muse, da Meta, passa a fazer ligações por você; PS5 ganha imagem mais nítida com IA (QSSR) em Spider-Man 2 e outros jogos; mais 21 clássicos do Xbox original chegam ao PC, 18 deles no Brasil; Epson traz ao Brasil telas de LED de 135 e 162 polegadas; Keychron apresenta o T1 HE, mouse com trackball de posição ajustável.</description>
+      <itunes:summary>Starship chega à órbita no voo 15 e a nave tenta hoje o primeiro pouso na torre; OpenAI lança o ChatGPT Wallet para agentes de IA pagarem compras; Muse, da Meta, passa a fazer ligações por você; PS5 ganha imagem mais nítida com IA (QSSR) em Spider-Man 2 e outros jogos; mais 21 clássicos do Xbox original chegam ao PC, 18 deles no Brasil; Epson traz ao Brasil telas de LED de 135 e 162 polegadas; Keychron apresenta o T1 HE, mouse com trackball de posição ajustável.</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-14</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-14.mp3" length="25523974" type="audio/mpeg"/>
+      <itunes:duration>00:13:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 13/11/2026</title>
+      <description>Google lança o Gemini 4 Hydrogen, modelo rápido que vira padrão no Modo IA da Busca; óculos inteligentes da Samsung com Gemini, em parceria com Warby Parker e Gentle Monster, chegam em 10 de dezembro; Xbox libera jogo na nuvem gratuito com anúncios e confirma GTA VI pela nuvem no lançamento; Anthropic abre beta do Claude Managed Agents auto-hospedado; One UI 9 chega a Galaxy A15 5G, A17 5G, A34 e A54 no Brasil; Skyways apresenta o Skyreach, drone de carga híbrido com mais de 2 mil km de autonomia; e Blackmagic anuncia microfone de áudio espacial com 108 cápsulas e tecnologia da Apple.</description>
+      <itunes:summary>Google lança o Gemini 4 Hydrogen, modelo rápido que vira padrão no Modo IA da Busca; óculos inteligentes da Samsung com Gemini, em parceria com Warby Parker e Gentle Monster, chegam em 10 de dezembro; Xbox libera jogo na nuvem gratuito com anúncios e confirma GTA VI pela nuvem no lançamento; Anthropic abre beta do Claude Managed Agents auto-hospedado; One UI 9 chega a Galaxy A15 5G, A17 5G, A34 e A54 no Brasil; Skyways apresenta o Skyreach, drone de carga híbrido com mais de 2 mil km de autonomia; e Blackmagic anuncia microfone de áudio espacial com 108 cápsulas e tecnologia da Apple.</itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-13</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-13.mp3" length="26262090" type="audio/mpeg"/>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 12/11/2026</title>
+      <description>Gemini chega ao Apple CarPlay com conversas por voz; AWS lança o AWS Emulator, escrito inteiramente por agentes de IA; XPENG abre o GroundingPI, modelo de visão para robôs e carros autônomos; IBM anuncia o processador quântico Nighthawk r3 e plano de sistema com mais de mil qubits em 2027; remake de Zelda: Ocarina of Time vende 5,2 milhões em quatro dias no Switch 2; voluntários brasileiros respondem por cerca de 70% das novas linhas da documentação do Linux 7.3; e a Apple encerra sua Comunidade de Suporte após 28 anos.</description>
+      <itunes:summary>Gemini chega ao Apple CarPlay com conversas por voz; AWS lança o AWS Emulator, escrito inteiramente por agentes de IA; XPENG abre o GroundingPI, modelo de visão para robôs e carros autônomos; IBM anuncia o processador quântico Nighthawk r3 e plano de sistema com mais de mil qubits em 2027; remake de Zelda: Ocarina of Time vende 5,2 milhões em quatro dias no Switch 2; voluntários brasileiros respondem por cerca de 70% das novas linhas da documentação do Linux 7.3; e a Apple encerra sua Comunidade de Suporte após 28 anos.</itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-12</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-12.mp3" length="28397026" type="audio/mpeg"/>
+      <itunes:duration>00:14:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 11/11/2026</title>
+      <description>Chico César e Marcos Suzano no baile gratuito do Monobloco na Brava Arena Jockey, na Gávea, e última sessão do Cine Concerto Cidade de Deus no Rio; Rec'n'Play começa no Recife com mais de 850 atividades gratuitas; Google libera o Gemini 4 Carbon; Pixel Feature Drop de novembro traz tarefas automáticas com Gemini e widgets criados por comando; Flamengo recusa sondagens pela venda de Samuel Lino e se prepara para o Athletico-PR; Kirk Cousins volta aos Vikings e Fernando Mendoza vira titular dos Raiders no fechamento da janela de trocas da NFL; na NBA, Paul George faz 36 na vitória do Celtics sobre o 76ers e Knicks atropelam os Bucks.</description>
+      <itunes:summary>Chico César e Marcos Suzano no baile gratuito do Monobloco na Brava Arena Jockey, na Gávea, e última sessão do Cine Concerto Cidade de Deus no Rio; Rec'n'Play começa no Recife com mais de 850 atividades gratuitas; Google libera o Gemini 4 Carbon; Pixel Feature Drop de novembro traz tarefas automáticas com Gemini e widgets criados por comando; Flamengo recusa sondagens pela venda de Samuel Lino e se prepara para o Athletico-PR; Kirk Cousins volta aos Vikings e Fernando Mendoza vira titular dos Raiders no fechamento da janela de trocas da NFL; na NBA, Paul George faz 36 na vitória do Celtics sobre o 76ers e Knicks atropelam os Bucks.</itunes:summary>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-11</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-11.mp3" length="25207997" type="audio/mpeg"/>
+      <itunes:duration>00:13:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 10/11/2026</title>
+      <description>Prefeitura do Rio propõe prédios de até 80 andares na Zona Portuária (projeto Mata Maravilha); Fachin arquiva o inquérito das fake news após sete anos; STF faz audiência de conciliação sobre o fim da escala 6x1 e decreto fica para a volta de Lula; Nvidia perde cerca de US$ 192 bilhões em um dia após investigação envolvendo Jensen Huang; Flamengo volta aos treinos com Danilo de máscara mirando o Athletico-PR; Bills vencem os Vikings por 23 a 6 no Monday Night; na NBA, Wembanyama faz 40 pontos e 9 tocos e Cooper Flagg marca 43.</description>
+      <itunes:summary>Prefeitura do Rio propõe prédios de até 80 andares na Zona Portuária (projeto Mata Maravilha); Fachin arquiva o inquérito das fake news após sete anos; STF faz audiência de conciliação sobre o fim da escala 6x1 e decreto fica para a volta de Lula; Nvidia perde cerca de US$ 192 bilhões em um dia após investigação envolvendo Jensen Huang; Flamengo volta aos treinos com Danilo de máscara mirando o Athletico-PR; Bills vencem os Vikings por 23 a 6 no Monday Night; na NBA, Wembanyama faz 40 pontos e 9 tocos e Cooper Flagg marca 43.</itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-10</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-10.mp3" length="25388555" type="audio/mpeg"/>
+      <itunes:duration>00:13:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 09/11/2026</title>
+      <description>Incêndio controlado em prédio em obras no Santo Cristo, no Rio, sem feridos segundo a construtora; Lula embarca para a COP31 na Turquia e depois segue para Filipinas e cúpula da Asean; decreto que regulamenta o fim da escala 6x1 deve sair hoje; Nvidia abre investigação independente envolvendo o CEO Jensen Huang; Flamengo usa a Data Fifa para recuperar o elenco antes de Athletico e Palmeiras; na NFL, virada dos Cowboys, Bengals em Madri e Giants quebrando tabu na Filadélfia; na NBA, 43 de Austin Reaves e 41 de Stephen Curry.</description>
+      <itunes:summary>Incêndio controlado em prédio em obras no Santo Cristo, no Rio, sem feridos segundo a construtora; Lula embarca para a COP31 na Turquia e depois segue para Filipinas e cúpula da Asean; decreto que regulamenta o fim da escala 6x1 deve sair hoje; Nvidia abre investigação independente envolvendo o CEO Jensen Huang; Flamengo usa a Data Fifa para recuperar o elenco antes de Athletico e Palmeiras; na NFL, virada dos Cowboys, Bengals em Madri e Giants quebrando tabu na Filadélfia; na NBA, 43 de Austin Reaves e 41 de Stephen Curry.</itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-09</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-09.mp3" length="26099922" type="audio/mpeg"/>
+      <itunes:duration>00:13:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
