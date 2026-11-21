@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antes do Expediente</title>
+    <link>https://jamesperes.github.io/antes-do-expediente/</link>
+    <atom:link href="https://jamesperes.github.io/antes-do-expediente/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.</description>
+    <language>pt-BR</language>
+    <podcast:guid>56430a54-3bae-5410-ad2b-8d03f8f2be2c</podcast:guid>
+    <lastBuildDate>Sat, 21 Nov 2026 06:40:41 -0300</lastBuildDate>
+    <itunes:author>James Peres</itunes:author>
+    <itunes:owner>
+      <itunes:name>James Peres</itunes:name>
+      <itunes:email>james.peres.s@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.</itunes:summary>
+    <itunes:image href="https://jamesperes.github.io/antes-do-expediente/cover-tech.jpg"/>
+    <image><url>https://jamesperes.github.io/antes-do-expediente/cover-tech.jpg</url><title>Antes do Expediente</title><link>https://jamesperes.github.io/antes-do-expediente/</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Antes do Expediente — 21/11/2026</title>
+      <description>GTA 6 fatura US$ 3,79 bilhões no primeiro dia e bate recorde de tráfego na Comcast; prova da Hipótese de Riemann feita com ajuda do Claude; grupos do WhatsApp com até 1.500 pessoas; Gemini cria GIFs; Teenage Engineering lança toca CD com disco à mostra; Apple encerra a Comunidade de Suporte após 28 anos.</description>
+      <itunes:summary>GTA 6 fatura US$ 3,79 bilhões no primeiro dia e bate recorde de tráfego na Comcast; prova da Hipótese de Riemann feita com ajuda do Claude; grupos do WhatsApp com até 1.500 pessoas; Gemini cria GIFs; Teenage Engineering lança toca CD com disco à mostra; Apple encerra a Comunidade de Suporte após 28 anos.</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-21</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-21.mp3" length="23830403" type="audio/mpeg"/>
+      <itunes:duration>00:12:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 20/11/2026</title>
+      <description>A Microsoft vai encerrar o app To Do em junho de 2027; a página inicial do Google passa a mostrar as conversas do Modo IA numa barra lateral; o Gemini aprende a usar o Mac por você; a OpenAI testa os agentes Dots no ChatGPT Plus; o Canva deixa desligar a IA generativa, já no Brasil; a Steam Machine sai da fila de espera; e o Meta Quest ganha mais de 150 filmes em 3D.</description>
+      <itunes:summary>A Microsoft vai encerrar o app To Do em junho de 2027; a página inicial do Google passa a mostrar as conversas do Modo IA numa barra lateral; o Gemini aprende a usar o Mac por você; a OpenAI testa os agentes Dots no ChatGPT Plus; o Canva deixa desligar a IA generativa, já no Brasil; a Steam Machine sai da fila de espera; e o Meta Quest ganha mais de 150 filmes em 3D.</itunes:summary>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-20</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-20.mp3" length="23717554" type="audio/mpeg"/>
+      <itunes:duration>00:12:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 19/11/2026</title>
+      <description>GTA 6 chega hoje, 13 anos depois do GTA 5; Google lança o Gemini 4 Neon, modelo para trabalho pesado; app do Gemini passa a rodar em celulares Android Go com 2 GB de RAM; Instagram libera a edição de Stories até 15 minutos depois de postar; Suno lança o Visuals e passa a criar clipes para as músicas; Disney mostra robôs de Star Wars que reagem ao público com IA da AWS; e chegam os primeiros mini PCs com o chip RTX Spark, da Nvidia.</description>
+      <itunes:summary>GTA 6 chega hoje, 13 anos depois do GTA 5; Google lança o Gemini 4 Neon, modelo para trabalho pesado; app do Gemini passa a rodar em celulares Android Go com 2 GB de RAM; Instagram libera a edição de Stories até 15 minutos depois de postar; Suno lança o Visuals e passa a criar clipes para as músicas; Disney mostra robôs de Star Wars que reagem ao público com IA da AWS; e chegam os primeiros mini PCs com o chip RTX Spark, da Nvidia.</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-19</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-19.mp3" length="24354524" type="audio/mpeg"/>
+      <itunes:duration>00:12:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 18/11/2026</title>
+      <description>Meta lança no Brasil o Achados, app só de compra e venda; OpenAI lança o GPT-6.2 Astra, com slides e planilhas menos com cara de IA; Word, Excel e PowerPoint agora funcionam dentro do Copilot; Google Wallet volta ao iPhone nos EUA; Uber Eats começa a entregar comida de drone no Texas, com a Zipline; Xiaomi 18 Pro, com tela na traseira, chega à Europa; e a Voyager 1 cruza hoje a marca de um dia-luz da Terra.</description>
+      <itunes:summary>Meta lança no Brasil o Achados, app só de compra e venda; OpenAI lança o GPT-6.2 Astra, com slides e planilhas menos com cara de IA; Word, Excel e PowerPoint agora funcionam dentro do Copilot; Google Wallet volta ao iPhone nos EUA; Uber Eats começa a entregar comida de drone no Texas, com a Zipline; Xiaomi 18 Pro, com tela na traseira, chega à Europa; e a Voyager 1 cruza hoje a marca de um dia-luz da Terra.</itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-18</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-18.mp3" length="24762452" type="audio/mpeg"/>
+      <itunes:duration>00:12:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 17/11/2026</title>
+      <description>Voyager 1 chega amanhã a um dia-luz da Terra, o ponto mais distante já alcançado por uma máquina humana; Gemini ganha 66 vozes regionais, incluindo o português do Brasil; Google Maps passa a montar roteiros de viagem com o Ask Maps; Instagram testa o Direct, um app só para mensagens; robotáxis sem volante da Zoox, da Amazon, chegam ao app da Uber em Las Vegas; Apple TV vai ganhar uma seção gratuita de podcasts em vídeo; e o app Island transforma ficar longe do celular num jogo de fazendinha.</description>
+      <itunes:summary>Voyager 1 chega amanhã a um dia-luz da Terra, o ponto mais distante já alcançado por uma máquina humana; Gemini ganha 66 vozes regionais, incluindo o português do Brasil; Google Maps passa a montar roteiros de viagem com o Ask Maps; Instagram testa o Direct, um app só para mensagens; robotáxis sem volante da Zoox, da Amazon, chegam ao app da Uber em Las Vegas; Apple TV vai ganhar uma seção gratuita de podcasts em vídeo; e o app Island transforma ficar longe do celular num jogo de fazendinha.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-17</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-17.mp3" length="23943252" type="audio/mpeg"/>
+      <itunes:duration>00:12:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 16/11/2026</title>
+      <description>Foguete Vulcan falha e a Amazon perde 40 satélites do Amazon Leo; GTA 6 chega na quinta à meia-noite, com pré-carregamento liberado e preço de R$ 449,90; Google Flow ganha cinco ferramentas de IA feitas por artistas, como o Pocket Studio; Xbox faz 25 anos e traz de volta a animação de inicialização do console original; Claude Meetings coloca o Claude nas reuniões do Google Meet; Nintendo libera presentes de jogos digitais no Switch a partir de hoje; e Magic: The Gathering vira série animada na Netflix, Planeswalker, em 2027.</description>
+      <itunes:summary>Foguete Vulcan falha e a Amazon perde 40 satélites do Amazon Leo; GTA 6 chega na quinta à meia-noite, com pré-carregamento liberado e preço de R$ 449,90; Google Flow ganha cinco ferramentas de IA feitas por artistas, como o Pocket Studio; Xbox faz 25 anos e traz de volta a animação de inicialização do console original; Claude Meetings coloca o Claude nas reuniões do Google Meet; Nintendo libera presentes de jogos digitais no Switch a partir de hoje; e Magic: The Gathering vira série animada na Netflix, Planeswalker, em 2027.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-16</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-16.mp3" length="24896199" type="audio/mpeg"/>
+      <itunes:duration>00:12:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 15/11/2026</title>
+      <description>Torre da SpaceX agarra a nave Starship pela primeira vez; Tesla abre a pré-venda do Cybercab para uso pessoal, por US$ 29.990 mais US$ 299 por mês; agentes de IA do Google, com o /teamwork do Antigravity, provam a conjectura de Courtade-Kumar, aberta desde 2013; telescópio James Webb acha gelo mais velho que a estrela Beta Pictoris; arquivos antigos do Word 2007 e 2010 podem perder a formatação a partir de dezembro; Tinder e Hinge proíbem agentes de IA de escolher perfis e conversar pelo usuário; e a ElevenLabs lança o ElevenAI, app que anota reuniões e faz ditado em mais de 90 idiomas.</description>
+      <itunes:summary>Torre da SpaceX agarra a nave Starship pela primeira vez; Tesla abre a pré-venda do Cybercab para uso pessoal, por US$ 29.990 mais US$ 299 por mês; agentes de IA do Google, com o /teamwork do Antigravity, provam a conjectura de Courtade-Kumar, aberta desde 2013; telescópio James Webb acha gelo mais velho que a estrela Beta Pictoris; arquivos antigos do Word 2007 e 2010 podem perder a formatação a partir de dezembro; Tinder e Hinge proíbem agentes de IA de escolher perfis e conversar pelo usuário; e a ElevenLabs lança o ElevenAI, app que anota reuniões e faz ditado em mais de 90 idiomas.</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-15</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-15.mp3" length="24802577" type="audio/mpeg"/>
+      <itunes:duration>00:12:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
