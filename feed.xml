@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antes do Expediente</title>
+    <link>https://jamesperes.github.io/antes-do-expediente/</link>
+    <atom:link href="https://jamesperes.github.io/antes-do-expediente/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.</description>
+    <language>pt-BR</language>
+    <podcast:guid>56430a54-3bae-5410-ad2b-8d03f8f2be2c</podcast:guid>
+    <lastBuildDate>Sat, 28 Nov 2026 06:47:07 -0300</lastBuildDate>
+    <itunes:author>James Peres</itunes:author>
+    <itunes:owner>
+      <itunes:name>James Peres</itunes:name>
+      <itunes:email>james.peres.s@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.</itunes:summary>
+    <itunes:image href="https://jamesperes.github.io/antes-do-expediente/cover-tech.jpg"/>
+    <image><url>https://jamesperes.github.io/antes-do-expediente/cover-tech.jpg</url><title>Antes do Expediente</title><link>https://jamesperes.github.io/antes-do-expediente/</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Antes do Expediente — 28/11/2026</title>
+      <description>Sensor escondido no dente entende comandos falados sem som; Silksong ganha a expansão gratuita Sea of Sorrow em 11 de dezembro; BYD revela a Whale, minivan elétrica de até 900 km; Roku libera nova tela inicial no Brasil; Google corrige o Gemini que devorava RAM no Chrome; Linux Mint 27 chega em beta; e o driver 621.40 da Nvidia corrige o desgaste de SSD, mas traz relatos de tela preta.</description>
+      <itunes:summary>Sensor escondido no dente entende comandos falados sem som; Silksong ganha a expansão gratuita Sea of Sorrow em 11 de dezembro; BYD revela a Whale, minivan elétrica de até 900 km; Roku libera nova tela inicial no Brasil; Google corrige o Gemini que devorava RAM no Chrome; Linux Mint 27 chega em beta; e o driver 621.40 da Nvidia corrige o desgaste de SSD, mas traz relatos de tela preta.</itunes:summary>
+      <pubDate>Sat, 28 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-28</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-28.mp3" length="23822044" type="audio/mpeg"/>
+      <itunes:duration>00:12:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 27/11/2026</title>
+      <description>GTA 6 faz o PS5 gastar mais que o triplo de energia, até com o personagem parado; WhatsApp vai vender eSIM de dados para viagem dentro do app; Google começa a mostrar anúncios nas respostas de IA da Busca no Brasil; Barra de Tarefas do Windows 11 vai poder se esconder também no topo e nas laterais; Atari dos anos 80 ganha o pacote de escritório gratuito XL Office; criador do Arduboy lança portátil colorido de US$ 49 para jogar e criar jogos; e morre James Russell, pioneiro da gravação óptica que abriu caminho para o CD.</description>
+      <itunes:summary>GTA 6 faz o PS5 gastar mais que o triplo de energia, até com o personagem parado; WhatsApp vai vender eSIM de dados para viagem dentro do app; Google começa a mostrar anúncios nas respostas de IA da Busca no Brasil; Barra de Tarefas do Windows 11 vai poder se esconder também no topo e nas laterais; Atari dos anos 80 ganha o pacote de escritório gratuito XL Office; criador do Arduboy lança portátil colorido de US$ 49 para jogar e criar jogos; e morre James Russell, pioneiro da gravação óptica que abriu caminho para o CD.</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-27</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-27.mp3" length="24416382" type="audio/mpeg"/>
+      <itunes:duration>00:12:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 26/11/2026</title>
+      <description>WhatsApp libera mensagens agendadas com até 14 dias de antecedência; sonda Hera, da ESA, mostra a cratera do tamanho de um estádio que a DART deixou no asteroide Dimorphos; IA gigante da Tencent, o Hy4 Flash, passa a rodar num Mac mini; ChatGPT e Codex vão dividir o mesmo limite de uso a partir de dezembro; Ubuntu mostra protótipo de um lançador com IA; X ganha editor de vídeo vertical para criadores; e uma capa com teclado e trackpad transforma o iPhone Duo num mini notebook.</description>
+      <itunes:summary>WhatsApp libera mensagens agendadas com até 14 dias de antecedência; sonda Hera, da ESA, mostra a cratera do tamanho de um estádio que a DART deixou no asteroide Dimorphos; IA gigante da Tencent, o Hy4 Flash, passa a rodar num Mac mini; ChatGPT e Codex vão dividir o mesmo limite de uso a partir de dezembro; Ubuntu mostra protótipo de um lançador com IA; X ganha editor de vídeo vertical para criadores; e uma capa com teclado e trackpad transforma o iPhone Duo num mini notebook.</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-26</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-26.mp3" length="25369329" type="audio/mpeg"/>
+      <itunes:duration>00:13:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 25/11/2026</title>
+      <description>O Tidal vai apagar cerca de 29 milhões de músicas feitas só por IA a partir de 9 de dezembro; o Muse, agente de IA da Meta, chega às mensagens do Instagram; o WhatsApp libera figurinhas com som e sem moldura branca no Brasil; o Claude passa a instalar artefatos como aplicativos no Mac e no Windows; Uber e Nuro testam robotáxis da Lucid sem motorista; o Threads ganha app para iPad; e o app de GameCube do Switch 2 recebe Wave Race Blue Storm e deixa tirar as bordas.</description>
+      <itunes:summary>O Tidal vai apagar cerca de 29 milhões de músicas feitas só por IA a partir de 9 de dezembro; o Muse, agente de IA da Meta, chega às mensagens do Instagram; o WhatsApp libera figurinhas com som e sem moldura branca no Brasil; o Claude passa a instalar artefatos como aplicativos no Mac e no Windows; Uber e Nuro testam robotáxis da Lucid sem motorista; o Threads ganha app para iPad; e o app de GameCube do Switch 2 recebe Wave Race Blue Storm e deixa tirar as bordas.</itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-25</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-25.mp3" length="25172052" type="audio/mpeg"/>
+      <itunes:duration>00:13:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 24/11/2026</title>
+      <description>GTA 6 vira o maior lançamento da história do PlayStation, com mais de 39 milhões de jogadores no PS5; ChatGPT ganha o GPT-6.2 Sol na conversa do dia a dia; Anthropic lança o Claude Ship, agentes que revisam, corrigem e aprovam código; Modo IA do Google se conecta ao Wallet, Drive e app do Gemini; Kagi Mail abre em beta para todos; Google Meet libera vídeo em Full HD de graça na web; e a Nothing anuncia o Ear (note), fones que gravam e transcrevem com IA.</description>
+      <itunes:summary>GTA 6 vira o maior lançamento da história do PlayStation, com mais de 39 milhões de jogadores no PS5; ChatGPT ganha o GPT-6.2 Sol na conversa do dia a dia; Anthropic lança o Claude Ship, agentes que revisam, corrigem e aprovam código; Modo IA do Google se conecta ao Wallet, Drive e app do Gemini; Kagi Mail abre em beta para todos; Google Meet libera vídeo em Full HD de graça na web; e a Nothing anuncia o Ear (note), fones que gravam e transcrevem com IA.</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-24</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-24.mp3" length="25929394" type="audio/mpeg"/>
+      <itunes:duration>00:13:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 23/11/2026</title>
+      <description>WhatsApp começa a testar backup na nuvem própria, com 2 GB grátis; Kodak SlideTag, chaveiro que mostra fotos e funciona como rastreador com Apple e Google; Motorola confirma 29 celulares que vão receber o Android 17 no Brasil; app do Claude ganha visual novo com abas; Magic Caves, jogo de 1977 que estava perdido, volta a rodar; Binding of Isaac tira do jogo músicas feitas por IA; e Pixel Weather deixa você informar o clima de verdade pra melhorar a previsão.</description>
+      <itunes:summary>WhatsApp começa a testar backup na nuvem própria, com 2 GB grátis; Kodak SlideTag, chaveiro que mostra fotos e funciona como rastreador com Apple e Google; Motorola confirma 29 celulares que vão receber o Android 17 no Brasil; app do Claude ganha visual novo com abas; Magic Caves, jogo de 1977 que estava perdido, volta a rodar; Binding of Isaac tira do jogo músicas feitas por IA; e Pixel Weather deixa você informar o clima de verdade pra melhorar a previsão.</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-23</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-23.mp3" length="24320252" type="audio/mpeg"/>
+      <itunes:duration>00:12:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Antes do Expediente — 22/11/2026</title>
+      <description>A sonda BepiColombo, da ESA e da JAXA, entra na órbita de Mercúrio depois de oito anos de viagem; a SpaceX vai aposentar e expor a Ship 42, primeira Starship pega pela torre; o Google vai encerrar o app Nest em janeiro e trocar o Google Assistente pelo Gemini for Home nas caixinhas e telas em agosto de 2027; o Chess.com abre o Classic, com dez jogos clássicos, de mahjong a sudoku; o Todoist lança um importador para quem usa o Microsoft To Do; o app do Gemini ganha câmera redesenhada no Android; e o iOS 27 deixa usar o mesmo número em dois iPhones.</description>
+      <itunes:summary>A sonda BepiColombo, da ESA e da JAXA, entra na órbita de Mercúrio depois de oito anos de viagem; a SpaceX vai aposentar e expor a Ship 42, primeira Starship pega pela torre; o Google vai encerrar o app Nest em janeiro e trocar o Google Assistente pelo Gemini for Home nas caixinhas e telas em agosto de 2027; o Chess.com abre o Classic, com dez jogos clássicos, de mahjong a sudoku; o Todoist lança um importador para quem usa o Microsoft To Do; o app do Gemini ganha câmera redesenhada no Android; e o iOS 27 deixa usar o mesmo número em dois iPhones.</itunes:summary>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 -0300</pubDate>
+      <guid isPermaLink="false">briefing-matinal-2026-11-22</guid>
+      <enclosure url="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-22.mp3" length="25458772" type="audio/mpeg"/>
+      <itunes:duration>00:13:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

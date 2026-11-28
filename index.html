@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Antes do Expediente · podcast diário de James Peres</title>
+  <meta name="description" content="Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.">
+  <meta name="theme-color" content="#0F274D">
+  <link rel="canonical" href="http://jamesperes.com/antes-do-expediente/">
+  <link rel="alternate" type="application/rss+xml" title="Antes do Expediente" href="https://jamesperes.github.io/antes-do-expediente/feed.xml">
+  <link rel="icon" href="icon-512.jpg">
+  <link rel="apple-touch-icon" href="icon-512.jpg">
+  <meta property="og:title" content="Antes do Expediente">
+  <meta property="og:description" content="Antes do Expediente: as 7 principais notícias de tecnologia do dia em uns 15 minutos, num papo leve pra ouvir antes de começar o trabalho. IA, lançamentos, celulares, apps, games e empresas de tecnologia, todo dia de manhã.">
+  <meta property="og:image" content="https://jamesperes.github.io/antes-do-expediente/cover-tech.jpg">
+  <meta property="og:url" content="http://jamesperes.com/antes-do-expediente/">
+  <style>
+    :root { --navy:#0F274D; --navy-2:#173462; --red:#C41E3A; --ink:#0F274D; --paper:#F5F7FB; --card:#fff; --muted:#5B6B84; color-scheme: light; }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body { margin:0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: var(--paper); color: var(--ink); line-height:1.5; }
+    a { color: inherit; }
+    .hero { background: var(--navy); color:#fff; padding: calc(1.25rem + env(safe-area-inset-top)) 1.25rem 0; }
+    .wrap { max-width: 40rem; margin: 0 auto; }
+    .top { display:flex; justify-content:space-between; align-items:center; font-size:.9rem; }
+    .top a { text-decoration:none; opacity:.85; }
+    .top a:hover { opacity:1; }
+    .show { display:flex; gap:1rem; align-items:center; padding: 1.75rem 0 1.5rem; }
+    .show img { width:6.5rem; height:6.5rem; border-radius:.75rem; flex:none; box-shadow:0 6px 20px rgba(0,0,0,.35); }
+    h1 { font-size: clamp(1.75rem, 7vw, 2.5rem); line-height:1.1; margin:0 0 .35rem; letter-spacing:-.01em; }
+    .tagline { margin:0; opacity:.85; font-size:.95rem; }
+    .topics { background: var(--red); color:#fff; margin: 0 -1.25rem; padding:.65rem 1.25rem; font-size:.85rem; font-weight:600; letter-spacing:.02em; overflow-x:auto; white-space:nowrap; }
+    .topics .wrap span + span::before { content:"•"; margin: 0 .5rem; opacity:.8; }
+    main { padding: 1.25rem; }
+    section { background: var(--card); border-radius: 1rem; padding: 1.25rem; margin: 0 auto 1rem; max-width:40rem; box-shadow: 0 1px 3px rgba(15,39,77,.08); }
+    .kicker { margin:0; color: var(--red); font-weight:700; font-size:.8rem; text-transform:uppercase; letter-spacing:.06em; }
+    h2 { font-size:1.25rem; line-height:1.25; margin:.35rem 0 .25rem; }
+    .meta { margin:0 0 .75rem; color: var(--muted); font-size:.9rem; }
+    audio { width:100%; margin:.25rem 0 .75rem; }
+    .desc { margin:0 0 1rem; font-size:.95rem; }
+    .btn { display:inline-flex; align-items:center; justify-content:center; min-height:44px; padding:.6rem 1rem; border-radius:999px; font-weight:600; text-decoration:none; border:2px solid var(--navy); background: var(--navy); color:#fff; cursor:pointer; font: inherit; font-weight:600; }
+    .btn.ghost { background:transparent; color: var(--navy); }
+    .btn.red { background: var(--red); border-color: var(--red); }
+    .sub p { margin:.25rem 0 .9rem; color: var(--muted); font-size:.95rem; }
+    .feed { display:flex; gap:.5rem; flex-wrap:wrap; }
+    .feed code { display:block; width:100%; background: var(--paper); padding:.6rem .75rem; border-radius:.5rem; font-size:.8rem; overflow-wrap:anywhere; }
+    .older ul { list-style:none; margin:.5rem 0 0; padding:0; }
+    .older li + li { border-top:1px solid #E3E8F0; }
+    summary { display:flex; justify-content:space-between; gap:1rem; padding:.85rem 0; cursor:pointer; font-weight:600; min-height:44px; }
+    summary .t { color: var(--muted); font-weight:400; }
+    details p { margin:0 0 1rem; font-size:.9rem; }
+    footer { text-align:center; color: var(--muted); font-size:.85rem; padding: 1rem 1.25rem calc(2rem + env(safe-area-inset-bottom)); }
+    footer a { color: var(--navy); }
+    @media (min-width: 40rem) { .show img { width:8.5rem; height:8.5rem; } }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <nav class="top"><a href="http://jamesperes.com/">← jamesperes.com</a><a href="https://jamesperes.github.io/antes-do-expediente/feed.xml">RSS</a></nav>
+      <div class="show">
+        <img src="cover-tech.jpg" alt="Capa do podcast Antes do Expediente" width="136" height="136">
+        <div>
+          <h1>Antes do Expediente</h1>
+          <p class="tagline">O resumo diário para ouvir antes de começar o dia, por James Peres.</p>
+        </div>
+      </div>
+    </div>
+    <div class="topics"><div class="wrap"><span>IA</span><span>Lançamentos</span><span>Celulares</span><span>Apps</span><span>Games</span><span>Empresas</span></div></div>
+  </header>
+  <main>
+    <section class="latest" aria-labelledby="ep-title">
+      <p class="kicker">Episódio mais recente · 28 de novembro de 2026</p>
+      <h2 id="ep-title">Antes do Expediente — 28/11/2026</h2>
+      <p class="meta">12 min 24 s</p>
+      <audio controls preload="metadata" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-28.mp3"></audio>
+      <p class="desc">Sensor escondido no dente entende comandos falados sem som; Silksong ganha a expansão gratuita Sea of Sorrow em 11 de dezembro; BYD revela a Whale, minivan elétrica de até 900 km; Roku libera nova tela inicial no Brasil; Google corrige o Gemini que devorava RAM no Chrome; Linux Mint 27 chega em beta; e o driver 621.40 da Nvidia corrige o desgaste de SSD, mas traz relatos de tela preta.</p>
+      <a class="btn ghost" href="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-28.mp3" download>Baixar MP3</a>
+    </section>
+    <section class="sub" aria-labelledby="sub-title">
+      <h2 id="sub-title">Assine o podcast</h2>
+      <p>Cole o endereço do feed no seu app de podcasts (Apple Podcasts, Pocket Casts, Overcast, AntennaPod…).</p>
+      <div class="feed">
+        <code id="feed-url">https://jamesperes.github.io/antes-do-expediente/feed.xml</code>
+        <button class="btn red" type="button" id="copy">Copiar link do feed</button>
+        <a class="btn ghost" href="https://jamesperes.github.io/antes-do-expediente/feed.xml">Abrir RSS</a>
+      </div>
+    </section>
+    <section class="older" aria-labelledby="older-title">
+      <h2 id="older-title">Episódios anteriores</h2>
+      <ul>
+        <li>
+          <details>
+            <summary><span class="d">27 de novembro de 2026</span><span class="t">12 min 43 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-27.mp3"></audio>
+            <p>GTA 6 faz o PS5 gastar mais que o triplo de energia, até com o personagem parado; WhatsApp vai vender eSIM de dados para viagem dentro do app; Google começa a mostrar anúncios nas respostas de IA da Busca no Brasil; Barra de Tarefas do Windows 11 vai poder se esconder também no topo e nas laterais; Atari dos anos 80 ganha o pacote de escritório gratuito XL Office; criador do Arduboy lança portátil colorido de US$ 49 para jogar e criar jogos; e morre James Russell, pioneiro da gravação óptica que abriu caminho para o CD.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">26 de novembro de 2026</span><span class="t">13 min 13 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-26.mp3"></audio>
+            <p>WhatsApp libera mensagens agendadas com até 14 dias de antecedência; sonda Hera, da ESA, mostra a cratera do tamanho de um estádio que a DART deixou no asteroide Dimorphos; IA gigante da Tencent, o Hy4 Flash, passa a rodar num Mac mini; ChatGPT e Codex vão dividir o mesmo limite de uso a partir de dezembro; Ubuntu mostra protótipo de um lançador com IA; X ganha editor de vídeo vertical para criadores; e uma capa com teclado e trackpad transforma o iPhone Duo num mini notebook.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">25 de novembro de 2026</span><span class="t">13 min 7 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-25.mp3"></audio>
+            <p>O Tidal vai apagar cerca de 29 milhões de músicas feitas só por IA a partir de 9 de dezembro; o Muse, agente de IA da Meta, chega às mensagens do Instagram; o WhatsApp libera figurinhas com som e sem moldura branca no Brasil; o Claude passa a instalar artefatos como aplicativos no Mac e no Windows; Uber e Nuro testam robotáxis da Lucid sem motorista; o Threads ganha app para iPad; e o app de GameCube do Switch 2 recebe Wave Race Blue Storm e deixa tirar as bordas.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">24 de novembro de 2026</span><span class="t">13 min 30 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-24.mp3"></audio>
+            <p>GTA 6 vira o maior lançamento da história do PlayStation, com mais de 39 milhões de jogadores no PS5; ChatGPT ganha o GPT-6.2 Sol na conversa do dia a dia; Anthropic lança o Claude Ship, agentes que revisam, corrigem e aprovam código; Modo IA do Google se conecta ao Wallet, Drive e app do Gemini; Kagi Mail abre em beta para todos; Google Meet libera vídeo em Full HD de graça na web; e a Nothing anuncia o Ear (note), fones que gravam e transcrevem com IA.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">23 de novembro de 2026</span><span class="t">12 min 40 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-23.mp3"></audio>
+            <p>WhatsApp começa a testar backup na nuvem própria, com 2 GB grátis; Kodak SlideTag, chaveiro que mostra fotos e funciona como rastreador com Apple e Google; Motorola confirma 29 celulares que vão receber o Android 17 no Brasil; app do Claude ganha visual novo com abas; Magic Caves, jogo de 1977 que estava perdido, volta a rodar; Binding of Isaac tira do jogo músicas feitas por IA; e Pixel Weather deixa você informar o clima de verdade pra melhorar a previsão.</p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary><span class="d">22 de novembro de 2026</span><span class="t">13 min 16 s</span></summary>
+            <audio controls preload="none" src="https://op3.dev/e,pg=56430a54-3bae-5410-ad2b-8d03f8f2be2c/jamesperes.github.io/antes-do-expediente/episodes/2026-11-22.mp3"></audio>
+            <p>A sonda BepiColombo, da ESA e da JAXA, entra na órbita de Mercúrio depois de oito anos de viagem; a SpaceX vai aposentar e expor a Ship 42, primeira Starship pega pela torre; o Google vai encerrar o app Nest em janeiro e trocar o Google Assistente pelo Gemini for Home nas caixinhas e telas em agosto de 2027; o Chess.com abre o Classic, com dez jogos clássicos, de mahjong a sudoku; o Todoist lança um importador para quem usa o Microsoft To Do; o app do Gemini ganha câmera redesenhada no Android; e o iOS 27 deixa usar o mesmo número em dois iPhones.</p>
+          </details>
+        </li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>Episódios gerados diariamente · os 7 mais recentes ficam disponíveis.</p>
+    <p><a href="http://jamesperes.com/">James Peres</a></p>
+  </footer>
+  <script>
+    document.getElementById("copy").addEventListener("click", function () {
+      var b = this, u = document.getElementById("feed-url").textContent;
+      (navigator.clipboard ? navigator.clipboard.writeText(u) : Promise.reject()).then(function () {
+        b.textContent = "Link copiado!"; setTimeout(function () { b.textContent = "Copiar link do feed"; }, 2000);
+      }, function () { window.prompt("Copie o link do feed:", u); });
+    });
+  </script>
+</body>
+</html>
